@@ -1,0 +1,4 @@
+# 正文图表生成依赖（仅 scripts/plot_charts.py 需要）
+matplotlib>=3.5
+numpy>=1.21
+PyMySQL>=1.0

@@ -1,0 +1,23 @@
+# 数据文件（体积大，不入库）
+data/*.csv
+data/*.zip
+data/*.db
+data/*.duckdb
+*.csv
+*.zip
+
+# Python 缓存
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# 虚拟环境
+.venv/
+venv/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 敏感信息
+.env
