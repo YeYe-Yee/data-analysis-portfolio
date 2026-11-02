@@ -2,7 +2,7 @@
 
 **数据**：Olist Brazilian E-Commerce Public Dataset（99,441 笔订单 / 9 张表 / 2016-09 ~ 2018-10）
 **分析样本**：96,470 笔已送达订单 ｜ **分析窗口**：2017-01 ~ 2018-08 ｜ **工具**：MySQL 8 + Python(matplotlib)
-**作者**：陈叶 ｜ **日期**：2026-11 ｜ **口径来源**：`report/metrics_registry.md`（本报告每个数字均可回溯到该表）
+**作者**：YeYe-Yee ｜ **日期**：2026-11 ｜ **口径来源**：`report/metrics_registry.md`（本报告每个数字均可回溯到该表）
 
 ---
 
